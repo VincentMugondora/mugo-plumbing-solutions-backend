@@ -1,10 +1,10 @@
-# Plumbing Website Backend
+# Mugo Plumbing Solutions Backend
 
-This repository contains the backend for the Plumbing Website, built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The backend handles API requests, data storage, and server-side logic for the plumbing services.
+This repository contains the backend for **Mugo Plumbing Solutions**, built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The backend handles API requests, data storage and server-side logic for plumbing services.
 
 ## Table of Contents
 
-- [Plumbing Website Backend](#plumbing-website-backend)
+- [Mugo Plumbing Solutions Backend](#mugo-plumbing-solutions-backend)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
@@ -35,5 +35,5 @@ To get started with the backend, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/plumbing-website-backend.git
-   cd plumbing-website-backend
+   git clone https://github.com/yourusername/mugo-plumbing-solutions-backend.git
+   cd mugo-plumbing-solutions-backend
